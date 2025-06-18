@@ -1,0 +1,24 @@
+10 frases motivadoras para probrar algunas funcionalidades de git. 
+Puedes usarlas para probar push en postman con el proyecto o simplemente omitirlas
+
+frases : 
+
+"No hay atajo sin trabajo."
+
+"Cada error es una lección disfrazada."
+
+"El backend también tiene alma."
+
+"Compila, luego existo."
+
+"Hazlo simple, pero significativo."
+
+"Café, código, conquista."
+
+"El bug no es un enemigo, es un maestro."
+
+"Pensar antes de programar ahorra tiempo."
+
+"Una API bien hecha se explica sola."
+
+"Rompe cosas, pero aprende rápido."
