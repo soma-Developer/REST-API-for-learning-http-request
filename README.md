@@ -1,2 +1,20 @@
 # REST-API-for-learning-http-request
 REST API creada con el propósito de practicar y comprender el funcionamiento de las solicitudes HTTP (GET, POST  y DELETE). Este proyecto está orientado al aprendizaje de conceptos backend como rutas, controladores, middlewares, y manejo de respuestas/errores.
+
+Este repositorio contiene una API REST sencilla desarrollada con Node.js y Express, cuyo propósito es practicar conceptos básicos de manejo de solicitudes HTTP. La API permite realizar operaciones CRUD simples (consultar, agregar y eliminar frases motivacionales) utilizando rutas HTTP.
+
+Funcionalidades:
+GET /frases: Obtiene todas las frases disponibles.
+
+POST /frases: Agrega una nueva frase al arreglo.
+
+DELETE /frases/:id: Elimina una frase por su ID.
+
+Tecnologías utilizadas:
+Node.js
+
+Express.js
+
+Este proyecto es ideal para quienes están empezando en el desarrollo backend y desean comprender cómo funcionan los endpoints, los métodos HTTP y el manejo de datos en memoria.
+
+se puede probrar corriendola en postman 
