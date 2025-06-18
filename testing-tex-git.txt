@@ -22,3 +22,7 @@ frases :
 "Una API bien hecha se explica sola."
 
 "Rompe cosas, pero aprende rápido."
+
+"tu corazon es mas grande que cualquier cosa, aprecialo"
+
+"quiere antes de querer a alguien de lo contrario no habras aprendido a querer en realidad"
