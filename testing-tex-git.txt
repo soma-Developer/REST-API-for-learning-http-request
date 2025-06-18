@@ -1,9 +1,8 @@
-10 frases motivadoras para probrar algunas funcionalidades de git. 
+9 frases motivadoras para probrar algunas funcionalidades de git. 
 Puedes usarlas para probar push en postman con el proyecto o simplemente omitirlas
 
 frases : 
 
-"No hay atajo sin trabajo."
 
 "Cada error es una lección disfrazada."
 
