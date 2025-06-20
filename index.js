@@ -34,3 +34,9 @@ app.delete('/frases/:id', (req, res) => {
 app.listen(port, () => {
   console.log(`API escuchando en http://localhost:${port}`);
 });
+
+// Manejador de errores
+app.use((err, req, res, next) => {
+  console.error(err);
+  res.status(500).send({ message: 'Error interno del servidor' });
+});
